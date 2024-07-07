@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 👨🏻‍💻 I am a Ph.D student (2023.09 – ) at Mila and Université de Montréal. Currently, I’m working with Prof. Aishwarya Agrawal in vision-language learning. If you are interested in my research, please feel free to contact me.
+- 📬 Email: qian.yang@mila.quebec
+- 📃 See my [HomePage](https://mylittlechange.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=uiXJfhYAAAAJ&hl=en) for more about me and my research.
 <!--
 **MyLittleChange/MyLittleChange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
